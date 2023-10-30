@@ -1,0 +1,25 @@
+h1{
+  color: Lime;
+  text-align: center;
+  background-color: black;
+  font-family: monospace;
+}
+
+p{
+  text-aling: justify;
+}
+strong{
+ color:red;
+}
+ul{
+  position:absolute;
+  top: 500px;
+}
+ul{
+  position:relative;
+  top:10px;
+}
+nav{
+  position:absolute
+    top;0
+  
